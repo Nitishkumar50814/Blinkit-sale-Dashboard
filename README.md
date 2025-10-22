@@ -1,7 +1,5 @@
 # 1. Blinkit Sales Dashboard
-
-![Blinkit Dashboard](Blinkit%20Snapshot.png)
-
+![Blinkit-sale-Dashboard](Blinkit%20Sales%20Snapshot.png)
 # Blinkit Sales Dashboard
 
 # Project Title
@@ -21,7 +19,7 @@ The main goal is to provide quick business insights for product managers, catego
 
 ### Data Source / Storage: Excel / CSV (local); optionally can connect with SQL or BigQuery
 
-### Tools for Analysis (Optional): Python (Pandas) / Jupyter Notebook for data preprocessing
+### Tools for Analysis (Optional): Python (Pandas) 
 
 ### Documentation: GitHub (README + Dashboard Snapshot)
 
@@ -58,9 +56,9 @@ Detailed Insights: Category-wise sales (Fruits & Vegetables, Snack Foods, Frozen
 
 Insights (From This Dashboard)
 
-Total Sales: 122.22K
+Total Sales: 936.53K
 
-Average Rating: 3.93
+Average Rating: 3.92
 
 Top Categories: Fruits & Vegetables, Snack Foods
 
